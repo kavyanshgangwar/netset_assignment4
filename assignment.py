@@ -243,9 +243,7 @@ def ks_significance_test( d_statistic, num_observations, alpha_level ):
     return result
 
 
-#######################
-### Helper Methods ####
-#######################
+
 
 def collect_first_100_samples_in_data_set( data_file ):
     """
